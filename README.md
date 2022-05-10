@@ -53,6 +53,10 @@ DEBLOAT!!!
 
 Want to contribute? Great! Open an issue or make a pull request.
 
+## Recognition
+
+Thanks to @SamNoteUser for [this post](https://r1.community.samsung.com/t5/others/how-to-remove-samsung-bloatware-without-root/td-p/5817510) which got me thinking about a better world free of bloatware.
+
 ## License
 
 MIT
